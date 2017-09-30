@@ -1,2 +1,2 @@
-# Dara-Structures-and-Algorithm-Analysis
-Labs for Dara Structures and Algorithm Analysis
+# Data-Structures-and-Algorithm-Analysis
+Labs for Data Structures and Algorithm Analysis
